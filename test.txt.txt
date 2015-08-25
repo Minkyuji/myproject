@@ -1,5 +1,3 @@
 .test
 
 modify text
-
-mod
